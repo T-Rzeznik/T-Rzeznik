@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Rounded gradient banner -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,50:1F2A44,100:58A6FF&height=180&section=header&text=Thomas%20Rzeznik&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20Software%20Engineer%20%C2%B7%20Multi-Agent%20Systems%20%C2%B7%20Cloud-Native%20AI&descAlignY=68&descSize=17" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D1117,50:1F2A44,100:58A6FF&height=130&section=header&text=Thomas%20Rzeznik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20Software%20Engineer%20%C2%B7%20Multi-Agent%20Systems%20%C2%B7%20Cloud-Native%20AI&descAlignY=72&descSize=14" />
 
 <!-- Typing animation: cycles through positioning lines -->
 <a href="https://github.com/T-Rzeznik">
@@ -10,10 +10,8 @@
 
 <br/>
 
-<!-- Live counters + quick links -->
-<img src="https://komarev.com/ghpvc/?username=T-Rzeznik&color=58A6FF&style=for-the-badge&label=Profile+Views" />
+<!-- Quick links -->
 <a href="https://www.linkedin.com/in/thomas-rzeznik"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:trzeznik29@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -23,10 +21,11 @@
 
 AI Software Engineer building enterprise multi-agent platforms and cloud-native AI infrastructure. My work lives at the intersection of agentic AI, cloud architecture, and safety engineering — translating production-grade research into systems teams actually deploy.
 
-- Architecting agentic AI platforms on **AWS ECS Fargate** with verify-then-commit safety controls
-- Designing **multi-agent supervisor systems** with RBAC-enforced tool execution and immutable audit logging
-- Provisioning cloud infrastructure with **Terraform** — ECS, RDS, KMS, WAF, S3
-- Building **RAG pipelines** and AI assistants with LangChain, LangGraph, and Pinecone
+- Architecting agentic AI platforms on **AWS** with verify-then-commit safety controls
+- Designing **multi-agent supervisor systems** for production workflows
+- Automating workflows with **Agentic AI**
+- Provisioning cloud infrastructure with **Terraform**
+- Building **RAG pipelines** and AI assistants
 - B.S. Computer Science, **SUNY Oneonta** · Minor in Math · GPA 3.75 · **Magna Cum Laude**
 
 ---
@@ -60,33 +59,5 @@ AI Software Engineer building enterprise multi-agent platforms and cloud-native 
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-</div>
-
----
-
-## Featured Project
-
-### Project Management Orchestration
-
-A multi-agent orchestration framework built around a **verify-then-commit** safety model — agents stage tool calls as atomic, time-limited proposals, humans approve, and only then do writes commit. Structured logging and native **MCP server integration**.
-
-**Stack:** Python · LangChain · MCP · Pydantic · JSON Schemas
-
-→ [View Repository](https://github.com/T-Rzeznik/Project-Management-Orchestration)
-
----
-
-<div align="center">
-
-### Let's Connect
-
-<a href="https://www.linkedin.com/in/thomas-rzeznik"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:trzeznik29@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/T-Rzeznik"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F2A44,100:0D1117&height=120&section=footer" />
 
 </div>
